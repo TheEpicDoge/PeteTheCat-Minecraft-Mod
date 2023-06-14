@@ -1,11 +1,11 @@
 {
   "homepage": "https://drive.google.com/file/d/1tEvE6ERrpr0TVQzg1FdIM8ChbvwCX8-5/view?usp=drive_link",
   "1.19.4": {
-    "1.1.0beta": "Added more items", 
+    "1.1.0": "Added more items", 
     "1.0.0": "Added base items", 
   },
   "promos": {
-    "1.19.4-latest": "1.1.0beta",
+    "1.19.4-latest": "1.1.0",
     "1.19.4-recommended": "1.0.0",
   }
 }
