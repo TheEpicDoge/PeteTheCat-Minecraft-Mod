@@ -1,11 +1,12 @@
 {
-  "homepage": "https://drive.google.com/file/d/1tEvE6ERrpr0TVQzg1FdIM8ChbvwCX8-5/view?usp=drive_link",
+  "homepage": "https://github.com/TheEpicDoge/PeteTheCat-Minecraft-Mod/tree/main#readme",
   "1.19.4": {
+    "1.2.0": "Added Jellybean trader", 
     "1.1.0": "Added more items", 
-    "1.0.0": "Added base items", 
+    "1.0.0": "Added base items" 
   },
   "promos": {
-    "1.19.4-latest": "1.1.0",
-    "1.19.4-recommended": "1.0.0",
+    "1.19.4-latest": "1.2.0",
+    "1.19.4-recommended": "1.2.0"
   }
 }
